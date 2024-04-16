@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\bin\Debug\net6.0\IntroduccionNet.exe
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\bin\Debug\net6.0\IntroduccionNet.deps.json
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\bin\Debug\net6.0\IntroduccionNet.runtimeconfig.json
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\bin\Debug\net6.0\IntroduccionNet.dll
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\bin\Debug\net6.0\IntroduccionNet.pdb
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.AssemblyInfo.cs
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.sourcelink.json
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.dll
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\refint\IntroduccionNet.dll
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.pdb
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\IntroduccionNet.genruntimeconfig.cache
+C:\Users\User\Desktop\CursoNet\IntroduccionNet\obj\Debug\net6.0\ref\IntroduccionNet.dll
