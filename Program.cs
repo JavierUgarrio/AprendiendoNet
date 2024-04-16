@@ -35,6 +35,7 @@
 
             var pruebaDeMerge = "okey";
 
+            var pruebaDeMerge2 = "okey";
         }
     }
 }
