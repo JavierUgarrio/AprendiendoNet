@@ -33,6 +33,8 @@
 
             var variable2 = edad + "hola interfiero";
 
+            var pruebaDeMerge = "okey";
+
         }
     }
 }
