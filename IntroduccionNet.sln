@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroduccionNomenclaturas",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroduccionConstantes", "..\IntroduccionConstantes\IntroduccionConstantes.csproj", "{32AE672F-6E43-4ECB-BADF-CC938EA2F34A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_If_else", "..\Introduccion_If_else\Introduccion_If_else.csproj", "{E47CDA8C-2C60-4AB9-9422-A01CA584187B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduccion_If_else", "..\Introduccion_If_else\Introduccion_If_else.csproj", "{E47CDA8C-2C60-4AB9-9422-A01CA584187B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_switch", "..\Introduccion_switch\Introduccion_switch.csproj", "{62D7227F-29B1-4DD8-BA13-AC8C3DDBAC6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E47CDA8C-2C60-4AB9-9422-A01CA584187B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E47CDA8C-2C60-4AB9-9422-A01CA584187B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E47CDA8C-2C60-4AB9-9422-A01CA584187B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D7227F-29B1-4DD8-BA13-AC8C3DDBAC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D7227F-29B1-4DD8-BA13-AC8C3DDBAC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D7227F-29B1-4DD8-BA13-AC8C3DDBAC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D7227F-29B1-4DD8-BA13-AC8C3DDBAC6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

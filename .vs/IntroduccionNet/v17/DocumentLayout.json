@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CursoNet\\IntroduccionNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62D7227F-29B1-4DD8-BA13-AC8C3DDBAC6A}|..\\Introduccion_switch\\Introduccion_switch.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E47CDA8C-2C60-4AB9-9422-A01CA584187B}|..\\Introduccion_If_else\\Introduccion_If_else.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,18 +26,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_switch\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Introduccion_switch\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_switch\\Program.cs",
+              "RelativeToolTip": "..\\Introduccion_switch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:05:39.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_If_else\\Program.cs",
               "RelativeDocumentMoniker": "..\\Introduccion_If_else\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_If_else\\Program.cs",
               "RelativeToolTip": "..\\Introduccion_If_else\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAlwDIAAABiAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAlwBoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T14:23:59.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\IntroduccionNet\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
