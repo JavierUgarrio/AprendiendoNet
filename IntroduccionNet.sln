@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_while", "..\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_for", "..\Introduccion_for\Introduccion_for.csproj", "{BC726386-302C-4D19-8AA2-6BD3DFB6766C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_Operadores", "..\Operadores\Introduccion_Operadores.csproj", "{D59AACC7-3038-425F-90D0-DEC2352498EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_argumentos", "..\Introduccion_argumentos\Introduccion_argumentos.csproj", "{84041FBA-4FAE-4B4A-A0A9-F7401A773570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{BC726386-302C-4D19-8AA2-6BD3DFB6766C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC726386-302C-4D19-8AA2-6BD3DFB6766C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC726386-302C-4D19-8AA2-6BD3DFB6766C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59AACC7-3038-425F-90D0-DEC2352498EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59AACC7-3038-425F-90D0-DEC2352498EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59AACC7-3038-425F-90D0-DEC2352498EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59AACC7-3038-425F-90D0-DEC2352498EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84041FBA-4FAE-4B4A-A0A9-F7401A773570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84041FBA-4FAE-4B4A-A0A9-F7401A773570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84041FBA-4FAE-4B4A-A0A9-F7401A773570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84041FBA-4FAE-4B4A-A0A9-F7401A773570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
