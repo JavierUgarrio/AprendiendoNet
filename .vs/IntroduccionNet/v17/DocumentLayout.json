@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CursoNet\\IntroduccionNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC726386-302C-4D19-8AA2-6BD3DFB6766C}|..\\Introduccion_for\\Introduccion_for.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{350BF0FF-3B3B-4269-9A8F-76C16F204524}|..\\Introduccion_while\\Introduccion_while.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,18 +35,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_for\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Introduccion_for\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_for\\Program.cs*",
+              "RelativeToolTip": "..\\Introduccion_for\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:43:00.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_while\\Program.cs",
               "RelativeDocumentMoniker": "..\\Introduccion_while\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_while\\Program.cs*",
-              "RelativeToolTip": "..\\Introduccion_while\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_while\\Program.cs",
+              "RelativeToolTip": "..\\Introduccion_while\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T10:30:55.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Do-while\\Program.cs",
               "RelativeDocumentMoniker": "..\\Do-while\\Program.cs",
@@ -56,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_switch\\Program.cs",
               "RelativeDocumentMoniker": "..\\Introduccion_switch\\Program.cs",
@@ -69,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_If_else\\Program.cs",
               "RelativeDocumentMoniker": "..\\Introduccion_If_else\\Program.cs",
@@ -82,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\IntroduccionNet\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
