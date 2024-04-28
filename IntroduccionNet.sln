@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_Operadores", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_argumentos", "..\Introduccion_argumentos\Introduccion_argumentos.csproj", "{84041FBA-4FAE-4B4A-A0A9-F7401A773570}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_Arrays", "..\Introduccion_Arrays\Introduccion_Arrays.csproj", "{938C8474-7EA9-4DCF-A865-43CA18A693FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{84041FBA-4FAE-4B4A-A0A9-F7401A773570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84041FBA-4FAE-4B4A-A0A9-F7401A773570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84041FBA-4FAE-4B4A-A0A9-F7401A773570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938C8474-7EA9-4DCF-A865-43CA18A693FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938C8474-7EA9-4DCF-A865-43CA18A693FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938C8474-7EA9-4DCF-A865-43CA18A693FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938C8474-7EA9-4DCF-A865-43CA18A693FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
