@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CursoNet\\IntroduccionNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{938C8474-7EA9-4DCF-A865-43CA18A693FD}|..\\Introduccion_Arrays\\Introduccion_Arrays.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84041FBA-4FAE-4B4A-A0A9-F7401A773570}|..\\Introduccion_argumentos\\Introduccion_argumentos.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_argumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84041FBA-4FAE-4B4A-A0A9-F7401A773570}|..\\Introduccion_argumentos\\Introduccion_argumentos.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_argumentos\\introduccion_argumentos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D59AACC7-3038-425F-90D0-DEC2352498EE}|..\\Operadores\\Operadores.csproj|c:\\users\\user\\desktop\\cursonet\\operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D59AACC7-3038-425F-90D0-DEC2352498EE}|..\\Operadores\\Introduccion_Operadores.csproj|c:\\users\\user\\desktop\\cursonet\\operadores\\introduccion_operadores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -21,9 +21,6 @@
       "AbsoluteMoniker": "D:0:0:{350BF0FF-3B3B-4269-9A8F-76C16F204524}|..\\Introduccion_while\\Introduccion_while.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9063EFE4-AE5D-465C-8A56-20AACE24E4E7}|..\\Do-while\\Do-while.csproj|c:\\users\\user\\desktop\\cursonet\\do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62D7227F-29B1-4DD8-BA13-AC8C3DDBAC6A}|..\\Introduccion_switch\\Introduccion_switch.csproj|c:\\users\\user\\desktop\\cursonet\\introduccion_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,6 +29,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{3A05AFFD-DBCC-4AE3-84F2-0A3913EC4892}|IntroduccionNet.csproj|c:\\users\\user\\desktop\\cursonet\\introduccionnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A05AFFD-DBCC-4AE3-84F2-0A3913EC4892}|IntroduccionNet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59AACC7-3038-425F-90D0-DEC2352498EE}|..\\Operadores\\Introduccion_Operadores.csproj|c:\\users\\user\\desktop\\cursonet\\operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063EFE4-AE5D-465C-8A56-20AACE24E4E7}|..\\Do-while\\Introduccion_Do_while.csproj|c:\\users\\user\\desktop\\cursonet\\do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,23 +44,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Introduccion_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_Arrays\\Program.cs",
+              "RelativeToolTip": "..\\Introduccion_Arrays\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:06:03.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Introduccion_argumentos",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_argumentos\\Introduccion_argumentos.csproj",
               "RelativeDocumentMoniker": "..\\Introduccion_argumentos\\Introduccion_argumentos.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_argumentos\\Introduccion_argumentos.csproj",
               "RelativeToolTip": "..\\Introduccion_argumentos\\Introduccion_argumentos.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-23T14:56:19.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T14:56:19.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_argumentos\\Program.cs",
               "RelativeDocumentMoniker": "..\\Introduccion_argumentos\\Program.cs",
@@ -65,25 +80,23 @@
               "RelativeToolTip": "..\\Introduccion_argumentos\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T14:54:36.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T14:54:36.763Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Introduccion_Operadores",
+              "Title": "Introduccion_Operadores.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Operadores\\Introduccion_Operadores.csproj",
               "RelativeDocumentMoniker": "..\\Operadores\\Introduccion_Operadores.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\CursoNet\\Operadores\\Introduccion_Operadores.csproj",
               "RelativeToolTip": "..\\Operadores\\Introduccion_Operadores.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-23T14:09:22.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T14:09:22.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Operadores\\Program.cs",
               "RelativeDocumentMoniker": "..\\Operadores\\Program.cs",
@@ -91,8 +104,7 @@
               "RelativeToolTip": "..\\Operadores\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T14:09:09.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T14:09:09.223Z"
             },
             {
               "$type": "Document",
@@ -104,8 +116,7 @@
               "RelativeToolTip": "..\\Introduccion_for\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:43:00.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T13:43:00.072Z"
             },
             {
               "$type": "Document",
@@ -117,12 +128,11 @@
               "RelativeToolTip": "..\\Introduccion_while\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T10:30:55.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T10:30:55.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Do-while\\Program.cs",
               "RelativeDocumentMoniker": "..\\Do-while\\Program.cs",
@@ -130,12 +140,11 @@
               "RelativeToolTip": "..\\Do-while\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:39:50.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T06:39:50.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_switch\\Program.cs",
               "RelativeDocumentMoniker": "..\\Introduccion_switch\\Program.cs",
@@ -143,12 +152,11 @@
               "RelativeToolTip": "..\\Introduccion_switch\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T22:05:39.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T22:05:39.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\Introduccion_If_else\\Program.cs",
               "RelativeDocumentMoniker": "..\\Introduccion_If_else\\Program.cs",
@@ -156,12 +164,11 @@
               "RelativeToolTip": "..\\Introduccion_If_else\\Program.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAlwBoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T14:23:59.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T14:23:59.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CursoNet\\IntroduccionNet\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -169,8 +176,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T06:55:39.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T06:55:39.609Z"
             }
           ]
         }
